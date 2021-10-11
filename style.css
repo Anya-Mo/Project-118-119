@@ -1,0 +1,52 @@
+body {
+    font-family: 'Alegreya', cursive;
+}
+.heading {
+    font-size: 30px;
+    width: 100%;
+    box-shadow: -1px 6px 3px 3px plum;
+    margin-top: -1px;
+}
+.heading_div {
+    float: none;
+    background-color:plum;
+    padding: 10px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.heading_div2 {
+    font-size: 20px;
+    float: none;
+    color: black;
+    background-color: powderblue;
+}
+.result_para_tag {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: 2px solid black;
+}
+.result_para_tag:hover {
+    background-color: rgb(255, 191, 255);
+    color: black;
+    border: 2px solid black;
+}
+.copy_write_footer {
+    background-color: pink;
+    color: black;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 300px;
+}
+canvas {
+    border: 5px solid black;
+    margin-top: 175px;
+    position: absolute;
+    top: 205px;
+}
